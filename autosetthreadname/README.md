@@ -8,7 +8,7 @@ This module will automatic set the `comm` attribute of the thread when a Thread 
 $ ps H ax -o start_time,pid,tid,cmd,comm -q 
 ```
 
-![](http://7lrwkm.com1.z0.glb.clouddn.com/threadname.png)
+![](./threadname.png)
 
 ## Usage
 
