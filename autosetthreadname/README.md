@@ -23,4 +23,4 @@ $ ps H ax -o start_time,pid,tid,cmd,comm -q
 Copied from [stackoverflow][stack].
 
 [stack]: http://stackoverflow.com/questions/34361035/python-thread-name-doesnt-show-up-on-ps-or-htop
-[comm]: 
+[comm]: http://man7.org/linux/man-pages/man5/proc.5.html
