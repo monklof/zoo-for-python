@@ -1,6 +1,6 @@
 # zoo-for-python
 
-Zoo for linux, mainly some useful python utils I used frequently when wrote python
+Zoo for python, mainly some useful python utils I used frequently when wrote python
 
 * `captcha`  
     A captcha generator for python, used in my [Blog][blog].
